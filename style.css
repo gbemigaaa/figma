@@ -1,0 +1,644 @@
+
+.navbar{
+    
+    height: 20px;
+}
+.logo{
+    width: 30px;
+    height: 30px;
+    float: left;
+    margin-right: 300px;
+    padding-top: 10px;
+}
+
+.menu{
+    width: 500px;
+    height: 70px;
+    float: left;
+}
+ul{
+    float: left;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+}
+ul li{
+    list-style-type: none;
+    float: left;
+    margin-left: 45px;
+    font-size: 17px;
+
+}
+ul li a{
+    text-decoration: none;
+    float: left;
+    color: black;
+    font-weight: bold;
+    transition: 0.5s;
+}
+
+ul li a:hover{
+    color: green;
+}
+
+.log{
+    float: left;
+    width: 70px;
+    padding-left: 400px;
+    padding-top: 10px;
+}.sign{
+    float: left;
+    padding-top: 10px;
+}
+.log a button{
+    color: green;
+    background: white;
+    border: transparent;
+    border-radius: 20px;
+    padding: 15px;
+    transition: 0.5s;
+}
+.sign a button{
+    color: white;
+    background: green;
+    border: transparent;
+    border-radius: 20px;
+    padding: 15px;
+    transition: 1.5s;
+}
+.log a button:hover{
+    color: white;
+    background: green;
+}
+
+.sign a button:hover{
+    color: green;
+    background: white;
+}
+
+.main{
+   
+    background-color:#F5F7FA;
+    ;
+    height: 500px;
+   
+}
+
+.main h1{
+    font-size: 50px;
+    padding-top: 100px;
+padding-left: 350px;
+
+}
+.main h1 span{
+    color: green;
+}
+.main p{
+    color: rgb(64, 62, 62);
+    margin-left: 350px;
+       
+}
+
+.main button{
+    width: 100px;
+    color: white;
+    background: green;
+    border: transparent;
+    border-radius: 5px;
+    padding: 15px;
+    transition: 0.75s;
+    margin-left: 350px;
+}
+.main button:hover{
+    color: green;
+    background: white;
+    border: green;
+    border-color: green;
+}
+.ill{
+    float: right;
+    margin-top: -200px;
+    margin-right: 300px;
+}
+.dot{
+    margin-left: 720px;
+    margin-top: 140px;
+}
+.main2{
+    width: Fixed (1,440px)px;
+height: Hug (190px)px;
+padding: 0px 144px 0px 144px;
+gap: 16px;
+background-color:white;
+
+}
+.main2 h2{
+font-size: 36px;
+font-weight: 600;
+line-height: 44px;
+text-align: center;
+margin: 0;
+padding: 0;
+
+}
+.main2 p{
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+text-align: center;
+margin: 0;
+padding: 0;
+
+}
+.main2 a{
+    text-align: center;
+    margin-left: 70px;
+    margin-right: 40px;
+    margin-top: 30px;
+}
+
+.comm h2{
+    text-align: center;
+    color: #4D4D4D;
+}
+
+.comm p{
+    color: #717171;
+    text-align: center;
+}
+
+
+.fra{
+    float: left;
+    margin-top: -350px;
+    margin-left: 250px;
+}
+
+
+
+
+
+.main3{
+    height: 300px;
+
+    margin: 0 auto;
+}
+.a1{float: left;
+    width: 33.3%;
+    
+    height: 400px;
+}
+
+.a1 img {
+    margin: 0;
+    margin-top: 70px;
+    margin-left: 45%;
+}
+.a1 h2{
+    text-align: center;
+    margin: 0;
+}
+    .a1 p{
+        text-align: center;
+    margin: 0;
+    }
+.a2{
+    margin: 0 auto;
+    width: 33.3%;
+    height: 400px;
+
+}
+
+.a2 img {
+    margin: 0;
+    margin-top: 70px;
+    margin-left: 45%;
+}
+.a2 h2{
+    text-align: center;
+    margin: 0;
+}
+    .a2 p{
+        text-align: center;
+    margin: 0;
+    }
+
+.a3{
+    float: right;
+    width: 33.3%;
+    height: 400px;
+
+}
+.a3 img {
+    margin: 0;
+    margin-top: 70px;
+    margin-left: 45%;
+}
+.a3 h2{
+    text-align: center;
+    margin: 0;
+}
+    .a3 p{
+        text-align: center;
+    margin: 0;
+    }
+
+.main4{
+   
+    background-color:white
+    ;
+    height: 500px;
+   
+}
+
+.main4 h1{
+    font-size: 50px;
+    padding-top: 100px;
+padding-left: 700px;
+
+}
+.main4 h1 span{
+    color: green;
+}
+.main4 p{
+    color: rgb(64, 62, 62);
+    margin-left: 700px;
+       
+}
+
+.main4 button{
+    width: 100px;
+    color: white;
+    background: green;
+    border: transparent;
+    border-radius: 5px;
+    padding: 15px;
+    transition: 0.75s;
+    margin-right: 500px;
+    margin-left: 700px;
+}
+.main4 button:hover{
+    color: green;
+    background: white;
+    border: green;
+    border-color: green;
+}
+.main5{
+   
+    background-color:#F5F7FA;
+    ;
+    height: 300px;
+   
+}
+
+.main5 h2{
+    font-size: 40px;
+    padding-top: 100px;
+padding-left: 150px;
+
+}
+.main5 h2 span{
+    color: green;
+}
+.main5 p{
+    color: rgb(64, 62, 62);
+    margin-left: 150px;
+       
+}
+
+.mem{
+    float: right;
+    width: 48%;
+    margin-top: -180px;
+    margin-left: 50px;
+}
+
+.m3{
+    float: left;
+    width: 50%;
+}
+.m3 img{
+    float: left;
+    width: 15%;
+}
+.m3 h3{
+    margin: 0;
+    padding-left: 70px;
+    font-size: 30px;
+
+
+}
+.m3 p{
+    margin: 0;
+    padding-left: 70px;
+}
+.m4{
+    float: right;
+    width: 50%;
+}
+.m4 img{
+    float: left;
+    width: 15%;
+}
+.m4 h3{
+    margin: 0;
+    padding-left: 70px;
+    font-size: 30px;
+
+
+}
+.m4 p{
+    margin: 0;
+    padding-left: 70px;}
+    
+    .m5{
+        float: left;
+        width: 50%;
+        margin-top: 30px;
+    }
+    .m5 img{
+        float: left;
+        width: 15%;
+    }
+    .m5 h3{
+        margin: 0;
+        padding-left: 70px;
+        font-size: 30px;
+    
+    
+    }
+    .m5 p{
+        margin: 0;
+        padding-left: 70px;
+    }
+    .m6{
+        float: right;
+        width: 50%;
+        margin-top: 30px;
+    }
+    .m6 img{
+        float: left;
+        width: 15%;
+    }
+    .m6 h3{
+        margin: 0;
+        padding-left: 70px;
+        font-size: 30px;
+    
+    
+    }
+    .m6 p{
+        margin: 0;
+        padding-left: 70px;}
+
+        .main6{
+   
+            background-color:white
+            ;
+            height: 500px;
+           
+        }
+        
+        .main6 h1{
+            font-size: 40px;
+            padding-top: 100px;
+        padding-left: 700px;
+        
+        }
+        .main6 h1 span{
+            color: green;
+        }
+        .main6 p{
+            color: rgb(64, 62, 62);
+            margin-left: 700px;
+               
+        }
+        
+        .main6 button{
+            width: 100px;
+            color: white;
+            background: green;
+            border: transparent;
+            border-radius: 5px;
+            padding: 15px;
+            transition: 0.75s;
+            margin-right: 500px;
+            margin-left: 700px;
+        }
+        .main6 button:hover{
+            color: green;
+            background: white;
+            border: green;
+            border-color: green;}
+            
+
+            .fra2{
+                float: left;
+                margin-top: -350px;
+                margin-left: 350px;
+            }
+            .fra2 img{
+                height: 350px;
+            }
+
+            .main7{
+   
+                background-color:white
+                ;
+                height: 300px;
+               
+            }
+
+            
+            .main7 p{
+                color: rgb(64, 62, 62);
+                
+                margin-left: 670px;
+                margin-bottom: -170px;
+                   
+           }
+            .main7 p span{
+                color: green;
+            font-size: larger;
+            margin-bottom: -170px;
+                   }
+                .fra3{
+                    float: left;
+                    margin-top: -50px;
+                    margin-left: 350px;
+                }
+                .fra3 img{
+                    height: 300px;
+                }
+                .main7 a{
+                    margin: 0;
+                    padding: 15px;
+                }            
+                .main7 a img{
+                    margin-top: 180px;
+            
+                }
+
+            .main7 .s{
+                height: 35px;
+                margin-bottom: 7px;
+            }
+            .main8{
+                justify-content: center;
+                text-align: center;
+                align-items: center;
+                height: 100px;
+                padding: 0;
+                margin: 0;
+            }
+            .main8 h3{
+                color: #4D4D4D;
+                font-size: 30px;
+                margin-bottom: 0;
+            }
+            .main8 p{
+                margin-top: 0;
+            }
+
+            .main9{
+                height: 400px;
+                padding-top: 30px;
+              
+            }
+
+            .main9 .cr{
+                float: right;
+                width: 33.33%;
+            
+                margin-left: 50px;
+              
+                
+
+            }
+
+            .main9 .cl{
+                float: left;
+                width: 33.33%;
+                padding-left: 50px;
+            }
+
+            .main9 .cm{
+                margin: 0 auto;
+                width: 33.33%;
+                padding: 0;
+            }
+            .txt{
+            
+                text-align: center;
+                background-color: #cacaca;
+                width: 250px;
+                margin-left: 110px;
+                padding: 1px;
+                border-radius: 10px;
+                margin-top: -100px;
+                position: relative;
+            }
+            .txt2{
+                text-align: center;
+                background-color: #cacaca;
+                width: 250px;
+                margin-left: 60px;
+                padding: 1px;
+                border-radius: 10px;
+                margin-top: -100px;
+                position: relative;
+            }
+            .txt a{
+                text-decoration: none;
+                color: green;
+                font-weight: bold;
+            }
+            .txt2 a{
+                text-decoration: none;
+                color: green;
+                font-weight: bold;
+            }
+
+            .main10{
+                text-align: center;
+                background-color: #F5F7FA;
+            }
+            .main10 h1{
+                font-size: 64px;
+            }
+            .main10 button{
+                width: 150px;
+                color: white;
+                background: green;
+                border: transparent;
+                border-radius: 5px;
+                padding: 15px;
+                transition: 0.75s;
+                margin-top: 15px;
+            }
+            .main10 button:hover{
+                color: green;
+                background: white;
+                border: green;
+                border-color: green;}
+                .main11{
+                    height: 400px;
+                    background-color: #263238;
+                }
+                .foo{
+                    width: 35%;
+                    float: left;
+                    height: 400px;
+                }
+                .foo p{
+                margin-left: 150px;
+                margin-top: 100px;
+                color: white;
+                }
+                .ter{
+                    width: 65%;
+                    height: 500px;
+                    float: right;
+                }
+                .ter h2{
+                    color: white;
+                }
+                .ter a{
+                    text-decoration: none;
+                    color: white;
+                }
+                .z1{
+                    width: 33.3%;
+                    float: left;
+                }
+                .z1 h2{
+                    margin-left: 150px;
+                    margin-top: 100px;
+                }
+                .z1 a{
+                    margin-left: 150px;
+                    margin-top: 100px;
+                }
+                .z2{
+                    width: 33.3%;
+                    float: right;
+                }
+                .z2 h2{
+        
+                    margin-top: 100px;}
+                    .z2 input[type=submit]{
+                        background-color: #263238;
+                    }
+
+                .z3{
+                    margin: 0 auto;
+                    width: 33.3%;
+                }
+                .z3 h2{
+                    margin-top: 100px;
+                }
+                .z3 a{
+                    margin-top: 100px;
+                }
+               
